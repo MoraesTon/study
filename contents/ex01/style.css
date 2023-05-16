@@ -1,0 +1,15 @@
+h1 {
+    color: #5882fa;
+}
+
+img {
+    width: 400px;
+}
+
+table tr th {
+    background: #819ff7;
+}
+
+table tr:nth-child(2){
+    background-color: #81F7D8;
+}
